@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="curriculum:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/curriculum_jar</output-path>
+    <root id="archive" name="curriculum.jar">
+      <element id="module-output" name="curriculumServer" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/com/squareup/okhttp3/okhttp/3.11.0/okhttp-3.11.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/com/squareup/okio/okio/1.14.0/okio-1.14.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="C:/Program Files (x86)/MySQL/Connector J 8.0/mysql-connector-java-8.0.13.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/json/json/20180813/json-20180813.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/jsoup/jsoup/1.11.3/jsoup-1.11.3.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
